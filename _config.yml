@@ -1,0 +1,75 @@
+# Site settings
+title: Shubham Kaushik
+twitter_username: shubhamk00020
+name: Shubham Kaushik
+
+# Build settings
+markdown: kramdown
+
+#User specific content
+#Links that will appear in the navbar
+primarylinks:
+#  - title: Blog
+#    url: https://automateddeveloper.blogspot.com/
+ - title: GitHub
+   url: https://github.com/shubham-sudo
+ - title: StackOverflow
+   url: https://stackoverflow.com/users/9536331/shubham-kaushik
+#  - title: DZone
+#    url: https://dzone.com/users/899489/rhinds.html
+ - title: LinkedIn
+   url: https://www.linkedin.com/in/shubham-kaushik-a75204110/
+
+#Any buzzword skills you want to include
+skills:
+ - Python
+ - Django
+ - Django-REST
+ - Microservices
+ - API design
+ - SQL
+ - Object Oriented Programming
+ - Algorithms and Data Structure
+
+#Blogfeed is optional - including this will add JS to call the feed and populate blog list
+# blogfeed: https://automateddeveloper.blogspot.com/feeds/posts/default?alt=json
+
+#Work experience is required
+roles:
+ - title: Project Engineer
+   start: 2018
+   end: Ongoing
+   employer: Wipro Limited
+   description: I am responsible for developing several API's using Django, Django-REST framework of python.
+
+#Education is required
+education:
+ - level: Bachelor of Technology (B.Tech)
+   date: 2018
+   subject: Computer Science & Engineering
+   school: University Institute of Engineering and Technology
+
+#This section is optional (as is the image link below)
+Certifications:
+  - title: DataCamp | Python Programming Track
+    link: https://www.datacamp.com/statement-of-accomplishment/track/5c7d7a07e88eef902cc101bc72ebf219dc312b1c
+    date: October --, 2018
+  - title: Oracle Workforce Development Program | Programming in Java
+    link: /#
+    date: May --, 2016
+
+#List of interesting Github repo/projects to include - optional
+github:
+ - shubham-sudo/Django_Proj
+ - shubham-sudo/Proj_Python
+ - shubham-sudo/E-Commerce
+
+#Stackoverflow flair is optional
+stackoverflow:
+   profileurl: https://stackoverflow.com/users/9536331/shubham-kaushik
+   flairimageurl: https://i.stack.imgur.com/eQuya.png
+
+intro: |
+  I am an innovative software developer with 2 years of experience developing API's, web and desktop application for internal use to clients purpose.
+  Currently, I am a project engineer at WIPRO and a part of digital team. We are designing web  based software which will be used for scheduling several jobs for automating thousands of tasks which is currently being handled by a large team manually.
+  Before this, I was a part of cyber defense team for automating several tasks from sending automated mails to phishing users. I also enhanced and rebuild the anomaly detector which helps in finding anomalies on the network or in the systems.
