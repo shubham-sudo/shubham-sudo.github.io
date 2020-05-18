@@ -48,15 +48,27 @@ education:
    date: 2018
    subject: Computer Science & Engineering
    school: University Institute of Engineering and Technology
+ - level: Intermediate
+   date: 2014
+   school: Rishikul Vidyapeeth Sonipat
+ - level: Matriculation
+   date: 2012
+   school: Rishikul Vidyapeeth Sonipat 
 
 #This section is optional (as is the image link below)
-Certifications:
-  - title: DataCamp | Python Programming Track
+certifications:
+  - title: Python Programming Track
+    organization: DataCamp
     link: https://www.datacamp.com/statement-of-accomplishment/track/5c7d7a07e88eef902cc101bc72ebf219dc312b1c
-    date: October --, 2018
-  - title: Oracle Workforce Development Program | Programming in Java
+    date: October, 2018
+  - title: Certificate of Experience
+    organization: SOPO INTERNET PRIVATE LIMITED
     link: /#
-    date: May --, 2016
+    date: March, 2017
+  - title: Programming in Java
+    organization: Oracle Workforce Development Program
+    link: /#
+    date: May, 2016
 
 #List of interesting Github repo/projects to include - optional
 github:
@@ -67,11 +79,11 @@ github:
 #Stackoverflow flair is optional
 stackoverflow:
    profileurl: https://stackoverflow.com/users/9536331/shubham-kaushik
-   flairimageurl: https://i.stack.imgur.com/eQuya.png
+   flairimageurl: https://stackoverflow.com/users/flair/9536331.png
 
 intro: |
-  I am an innovative software developer with 2 years of experience developing API's, web and desktop application for internal use to clients purpose.
+  I am an innovative software developer with 2 years of experience in developing API's, web and desktop application for internal use to clients purposes.
 
-  Currently, I am a project engineer at WIPRO and a part of digital team. We are designing web  based software which will be used for scheduling several jobs for automating thousands of tasks which is currently being handled by a large team manually.
+  Currently, I am a project engineer at WIPRO and a part of digital team. Here, I am responsible for designing several API's which helps in processing data after getting it from several sources and return output back to the caller. This will is used for scheduling several jobs for automating many tasks which is currently being handled by a large team manually.
 
-  Before this, I was a part of cyber defense team for automating several tasks from sending automated mails to phishing users. I also enhanced and rebuild the anomaly detector which helps in finding anomalies on the network or in the systems.
+  Before this, I was a part of cyber defense team for automating several tasks like sending automated mails or analyse logs. I also enhanced and rebuild the anomaly detector which helps in finding anomalies on the network or in the systems.
