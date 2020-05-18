@@ -2,12 +2,12 @@
 	<div class="top-rounded-panel grey-bg">
 		<h1>Work Experience</h1>
 	</div>
-	<div class="content-rounded-panel">
+	<div class="content-rounded-panel m-4">
 		<div>
 			<div class="main-timeline4">
 
 					{% for role in site.roles %}
-						<div class="timeline m-2">
+						<div class="timeline">
 								<a href="#" class="timeline-content"  data-toggle="modal" data-target="#{{role.employer | replace: ' ', '_'}}-{{role.title | replace: ' ', '_'}}">
 										<span class="year">{{role.start}}</span>
 										<div class="inner-content">
