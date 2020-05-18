@@ -70,6 +70,7 @@ certifications:
 
 #List of interesting Github repo/projects to include - optional
 github:
+ - shubham-sudo/shubham-sudo.github.io
  - shubham-sudo/Django_Proj
  - shubham-sudo/Proj_Python
  - shubham-sudo/E-Commerce
