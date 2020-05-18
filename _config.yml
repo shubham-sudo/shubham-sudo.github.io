@@ -48,10 +48,6 @@ education:
    date: 2018
    subject: Computer Science & Engineering
    school: University Institute of Engineering and Technology
- - level: Intermediate
-   date: 2014
-   subject: Non-Medical
-   school: Rishikul Vidyapeeth Sonipat
 
 #This section is optional (as is the image link below)
 certifications:
@@ -84,3 +80,7 @@ intro: |
   I am an innovative software developer with 2 years of experience in developing API's, web and desktop application for internal use to clients purposes.</br></br>
   Currently, I am a project engineer at WIPRO and a part of digital team. Here, I am responsible for designing several API's which helps in processing data after getting it from several sources and return output back to the caller. This will is used for scheduling several jobs for automating many tasks which is currently being handled by a large team manually.</br></br>
   Before this, I was a part of cyber defense team for automating several tasks like sending automated mails or analyse logs. I also enhanced and rebuild the anomaly detector which helps in finding anomalies on the network or in the systems.</br></br>
+
+researches:
+ - title: Fault Modelling of an Object-Oriented System using CPN
+   link: https://www.ijcseonline.org/full_paper_view.php?paper_id=4492 
