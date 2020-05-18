@@ -1,15 +1,15 @@
-{% if site.researches %}
+{% if site.accomplishments %}
 	<div id="blogBubble" class="rounded_panel txt_lightgrey">
 		<div class="top-rounded-panel grey-bg">
-			<h1>Recent blog posts & research</h1>
+			<h1>Accomplishments at Wipro</h1>
 		</div>
 		<div class="content-rounded-panel">
-			{% for research in site.researches %}
+			{% for accomp in site.accomplishments %}
 			<div id="blogArticles">
 				<div class="col-sm-12">
-					<a target='_blank' href="{{research.link}}">
-						{{research.title}}
-					</a>
+					<p>
+						{{accomp.title}}
+                    </p>
 				</div></br>
 			</div>
 			{% endfor %}

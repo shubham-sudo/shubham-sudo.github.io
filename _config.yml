@@ -93,4 +93,10 @@ additionalinfo: |
    <strong>Linux</strong>: I am also having experience to work in linux and it's tools like Vim to build and deploy application on linux servers (using gunicorn). <br/><br/>
    <strong>Database</strong> I have used SQL language for the database purpose, also worked with models and model forms while using Django framework. <br/><br/>
    <strong>Debugging & Problem Solving</strong>: I love to solve problems, debug and build logics as efficient as I can, also I continuously practice on some of the online platforms like hackerearth and leetCode.<br/><br/>
-  
+
+# Projects at company
+accomplishments:
+- title: Incident Management System
+- title: Phishing Simulation Tool
+- title: Anomaly Detector
+- title: Software Version Inventory
