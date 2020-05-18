@@ -87,12 +87,10 @@ intro: |
 researches:
  - title: Fault Modelling of an Object-Oriented System using CPN
    link: https://www.ijcseonline.org/full_paper_view.php?paper_id=4492 
-<<<<<<< HEAD
 
 additionalinfo: |
    <strong>Python</strong>: My current role uses Python as the primary language and have been building API's and web applications using it's most powerfull and easy to implement frameworks (Django and Django-REST). <br/><br/>
    <strong>Linux</strong>: I am also having experience to work in linux and it's tools like Vim to build and deploy application on linux servers (using gunicorn). <br/><br/>
    <strong>Database</strong> I have used SQL language for the database purpose, also worked with models and model forms while using Django framework. <br/><br/>
    <strong>Debugging & Problem Solving</strong>: I love to solve problems, debug and build logics as efficient as I can, also I continuously practice on some of the online platforms like hackerearth and leetCode.<br/><br/>
-=======
->>>>>>> 1f732bf1fe0adfa6cd8852c48b3e9e630c94d36f
+  
