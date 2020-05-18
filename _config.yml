@@ -28,6 +28,7 @@ skills:
  - Microservices
  - API design
  - SQL
+ - Git
  - Object Oriented Programming
  - Algorithms and Data Structure
 
@@ -76,11 +77,19 @@ stackoverflow:
    profileurl: https://stackoverflow.com/users/9536331/shubham-kaushik
    flairimageurl: https://stackoverflow.com/users/flair/9536331.png
 
+# Small Introduction
 intro: |
   I am an innovative software developer with 2 years of experience in developing API's, web and desktop application for internal use to clients purposes.</br></br>
   Currently, I am a project engineer at WIPRO and a part of digital team. Here, I am responsible for designing several API's which helps in processing data after getting it from several sources and return output back to the caller. This will is used for scheduling several jobs for automating many tasks which is currently being handled by a large team manually.</br></br>
   Before this, I was a part of cyber defense team for automating several tasks like sending automated mails or analyse logs. I also enhanced and rebuild the anomaly detector which helps in finding anomalies on the network or in the systems.</br></br>
 
+# Few researches and blog posts
 researches:
  - title: Fault Modelling of an Object-Oriented System using CPN
    link: https://www.ijcseonline.org/full_paper_view.php?paper_id=4492 
+
+additionalinfo: |
+   <strong>Python</strong>: My current role uses Python as the primary language and have been building API's and web applications using it's most powerfull and easy to implement frameworks (Django and Django-REST). <br/><br/>
+   <strong>Linux</strong>: I am also having experience to work in linux and it's tools like Vim to build and deploy application on linux servers (using gunicorn). <br/><br/>
+   <strong>Database</strong> I have used SQL language for the database purpose, also worked with models and model forms while using Django framework. <br/><br/>
+   <strong>Debugging & Problem Solving</strong>: I love to solve problems, debug and build logics as efficient as I can, also I continuously practice on some of the online platforms like hackerearth and leetCode.<br/><br/>
